@@ -1,0 +1,50 @@
+14:09:33.014 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:09:33.039 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:09:33.045 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:09:33.072 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:09:33.098 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:09:33.104 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:09:33.106 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:09:33.131 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:09:33.162 [main] INFO  testCases.TC__03_DDT_LoginPage -  *** DDT Testing Login Page *** 
+14:09:33.163 [main] INFO  testCases.TC__03_DDT_LoginPage -  *** launch Application *** 
+14:09:52.948 [main] INFO  testCases.TC__03_DDT_LoginPage -  *** DDT Testing Login Page *** 
+14:09:52.948 [main] INFO  testCases.TC__03_DDT_LoginPage -  *** launch Application *** 
+14:09:53.025 [main] INFO  testCases.TC__03_DDT_LoginPage -  *** DDT Testing Login Page *** 
+14:09:53.026 [main] INFO  testCases.TC__03_DDT_LoginPage -  *** launch Application *** 
+14:09:53.087 [main] INFO  testCases.TC__03_DDT_LoginPage -  *** DDT Testing Login Page *** 
+14:09:53.087 [main] INFO  testCases.TC__03_DDT_LoginPage -  *** launch Application *** 
+14:09:53.145 [main] INFO  testCases.TC__03_DDT_LoginPage -  *** DDT Testing Login Page *** 
+14:09:53.147 [main] INFO  testCases.TC__03_DDT_LoginPage -  *** launch Application *** 
+14:19:43.659 [main] INFO  testCases.TC__02_LoginPage -  *** Check Login Functionality *** 
+14:19:44.090 [main] INFO  testCases.TC__02_LoginPage -  *** Clicked Login *** 
+14:19:44.091 [main] INFO  testCases.TC__02_LoginPage -  *** Enter credentials *** 
+14:19:45.179 [main] INFO  testCases.TC__02_LoginPage -  *** Account Logged in *** 
+14:19:45.180 [main] INFO  testCases.TC__02_LoginPage -  *** Conform Login through My Account Page *** 
+14:20:10.310 [main] ERROR testCases.TC__02_LoginPage -  *** Failed Login *** 
+14:20:12.287 [main] INFO  testCases.TC__01_Account_Registration -  *** Account Registration *** 
+14:20:13.145 [main] INFO  testCases.TC__01_Account_Registration -  *** Clicked on Register *** 
+14:20:13.153 [main] INFO  testCases.TC__01_Account_Registration -  *** Entering the Details *** 
+14:20:18.921 [main] INFO  testCases.TC__01_Account_Registration -  *** Account Created *** 
+14:20:18.990 [main] INFO  testCases.TC__01_Account_Registration -  *** TC__01 Account Resistration completed *** 
+14:20:47.518 [main] INFO  testCases.TC__02_LoginPage -  *** Check Login Functionality *** 
+14:20:48.013 [main] INFO  testCases.TC__02_LoginPage -  *** Clicked Login *** 
+14:20:48.013 [main] INFO  testCases.TC__02_LoginPage -  *** Enter credentials *** 
+14:20:49.171 [main] INFO  testCases.TC__02_LoginPage -  *** Account Logged in *** 
+14:20:49.172 [main] INFO  testCases.TC__02_LoginPage -  *** Conform Login through My Account Page *** 
+14:20:50.204 [main] INFO  testCases.TC__02_LoginPage -  *** Login Successfully *** 
+18:55:51.621 [main] INFO  testCases.TC__02_LoginPage -  *** Check Login Functionality *** 
+18:55:52.008 [main] INFO  testCases.TC__02_LoginPage -  *** Clicked Login *** 
+18:55:52.008 [main] INFO  testCases.TC__02_LoginPage -  *** Enter credentials *** 
+18:55:52.290 [main] INFO  testCases.TC__02_LoginPage -  *** Account Logged in *** 
+18:55:52.291 [main] INFO  testCases.TC__02_LoginPage -  *** Conform Login through My Account Page *** 
+18:56:37.072 [main] ERROR testCases.TC__02_LoginPage -  *** Failed Login *** 
+18:56:38.532 [main] INFO  testCases.TC__01_Account_Registration -  *** Account Registration *** 
+18:56:39.192 [main] INFO  testCases.TC__01_Account_Registration -  *** Clicked on Register *** 
+18:56:39.197 [main] INFO  testCases.TC__01_Account_Registration -  *** Entering the Details *** 
+18:56:43.942 [main] INFO  testCases.TC__01_Account_Registration -  *** Account Created *** 
+18:56:44.020 [main] INFO  testCases.TC__01_Account_Registration -  *** TC__01 Account Resistration completed *** 
+18:59:19.586 [main] INFO  testCases.TC__02_LoginPage -  *** Check Login Functionality *** 
+18:59:19.958 [main] INFO  testCases.TC__02_LoginPage -  *** Clicked Login *** 
+18:59:19.959 [main] INFO  testCases.TC__02_LoginPage -  *** Enter credentials *** 
+18:59:20.240 [main] INFO  testCases.TC__02_LoginPage -  *** Account Logged in *** 

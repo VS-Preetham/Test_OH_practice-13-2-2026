@@ -1,0 +1,27 @@
+<suite name="EdgeSuite" parallel="tests" thread-count="3">
+
+  <test name="Edge_Windows">
+    <parameter name="os" value="Windows"/>
+    <parameter name="browser" value="edge"/>
+    <classes>
+      <class name="testCases.TC__01_Account_Registration"/>
+    </classes>
+  </test>
+
+  <test name="Edge_Linux">
+    <parameter name="os" value="Linux"/>
+    <parameter name="browser" value="edge"/>
+    <classes>
+      <class name="testCases.TC__01_Account_Registration"/>
+    </classes>
+  </test>
+
+  <test name="Edge_Mac">
+    <parameter name="os" value="Mac"/>
+    <parameter name="browser" value="edge"/>
+    <classes>
+      <class name="testCases.TC__01_Account_Registration"/>
+    </classes>
+  </test>
+
+</suite>

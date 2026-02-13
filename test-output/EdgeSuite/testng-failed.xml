@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="3" parallel="tests" name="Failed suite [EdgeSuite]">
+  <test thread-count="3" parallel="tests" name="Edge_Linux(failed)">
+    <parameter name="os" value="Linux"/>
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="testCases.TC__01_Account_Registration">
+        <methods>
+          <include name="test_Acc_Resgitration"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testCases.TC__01_Account_Registration -->
+    </classes>
+  </test> <!-- Edge_Linux(failed) -->
+  <test thread-count="3" parallel="tests" name="Edge_Windows(failed)">
+    <parameter name="os" value="Linux"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testCases.TC__01_Account_Registration">
+        <methods>
+          <include name="test_Acc_Resgitration"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testCases.TC__01_Account_Registration -->
+    </classes>
+  </test> <!-- Edge_Windows(failed) -->
+</suite> <!-- Failed suite [EdgeSuite] -->

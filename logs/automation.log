@@ -1,0 +1,54 @@
+18:59:20.241 [main] INFO  testCases.TC__02_LoginPage -  *** Conform Login through My Account Page *** 
+19:00:04.686 [main] INFO  testCases.TC__02_LoginPage -  *** Login Successfully *** 
+19:00:08.219 [main] INFO  testCases.TC__01_Account_Registration -  *** Account Registration *** 
+19:00:09.558 [main] INFO  testCases.TC__01_Account_Registration -  *** Clicked on Register *** 
+19:00:09.559 [main] INFO  testCases.TC__01_Account_Registration -  *** Entering the Details *** 
+19:00:14.740 [main] INFO  testCases.TC__01_Account_Registration -  *** Account Created *** 
+19:00:14.793 [main] INFO  testCases.TC__01_Account_Registration -  *** TC__01 Account Resistration completed *** 
+19:01:16.839 [main] INFO  testCases.TC__02_LoginPage -  *** Check Login Functionality *** 
+19:01:17.181 [main] INFO  testCases.TC__02_LoginPage -  *** Clicked Login *** 
+19:01:17.181 [main] INFO  testCases.TC__02_LoginPage -  *** Enter credentials *** 
+19:01:17.413 [main] INFO  testCases.TC__02_LoginPage -  *** Account Logged in *** 
+19:01:17.414 [main] INFO  testCases.TC__02_LoginPage -  *** Conform Login through My Account Page *** 
+19:01:56.894 [main] INFO  testCases.TC__02_LoginPage -  *** Login Successfully *** 
+19:01:58.087 [main] INFO  testCases.TC__01_Account_Registration -  *** Account Registration *** 
+19:10:49.101 [main] INFO  testCases.TC__02_LoginPage -  *** Check Login Functionality *** 
+19:10:49.552 [main] INFO  testCases.TC__02_LoginPage -  *** Clicked Login *** 
+19:10:49.552 [main] INFO  testCases.TC__02_LoginPage -  *** Enter credentials *** 
+19:10:49.865 [main] INFO  testCases.TC__02_LoginPage -  *** Account Logged in *** 
+19:10:49.865 [main] INFO  testCases.TC__02_LoginPage -  *** Conform Login through My Account Page *** 
+19:11:18.908 [main] ERROR testCases.TC__02_LoginPage -  *** Failed Login *** 
+19:11:20.310 [main] INFO  testCases.TC__01_Account_Registration -  *** Account Registration *** 
+19:11:20.750 [main] INFO  testCases.TC__01_Account_Registration -  *** Clicked on Register *** 
+19:11:20.753 [main] INFO  testCases.TC__01_Account_Registration -  *** Entering the Details *** 
+19:11:25.279 [main] INFO  testCases.TC__01_Account_Registration -  *** Account Created *** 
+19:11:25.328 [main] INFO  testCases.TC__01_Account_Registration -  *** TC__01 Account Resistration completed *** 
+19:12:15.605 [main] INFO  testCases.TC__02_LoginPage -  *** Check Login Functionality *** 
+19:12:15.975 [main] INFO  testCases.TC__02_LoginPage -  *** Clicked Login *** 
+19:12:15.975 [main] INFO  testCases.TC__02_LoginPage -  *** Enter credentials *** 
+19:12:16.988 [main] INFO  testCases.TC__02_LoginPage -  *** Account Logged in *** 
+19:12:16.988 [main] INFO  testCases.TC__02_LoginPage -  *** Conform Login through My Account Page *** 
+19:12:54.045 [main] INFO  testCases.TC__02_LoginPage -  *** Login Successfully *** 
+19:12:55.240 [main] INFO  testCases.TC__01_Account_Registration -  *** Account Registration *** 
+19:12:55.649 [main] INFO  testCases.TC__01_Account_Registration -  *** Clicked on Register *** 
+19:12:55.651 [main] INFO  testCases.TC__01_Account_Registration -  *** Entering the Details *** 
+19:12:59.980 [main] INFO  testCases.TC__01_Account_Registration -  *** Account Created *** 
+19:13:00.018 [main] INFO  testCases.TC__01_Account_Registration -  *** TC__01 Account Resistration completed *** 
+19:14:53.803 [main] INFO  testCases.TC__02_LoginPage -  *** Check Login Functionality *** 
+19:14:54.284 [main] INFO  testCases.TC__02_LoginPage -  *** Clicked Login *** 
+19:14:54.285 [main] INFO  testCases.TC__02_LoginPage -  *** Enter credentials *** 
+19:14:55.340 [main] INFO  testCases.TC__02_LoginPage -  *** Account Logged in *** 
+19:14:55.340 [main] INFO  testCases.TC__02_LoginPage -  *** Conform Login through My Account Page *** 
+19:15:21.307 [main] ERROR testCases.TC__02_LoginPage -  *** Failed Login *** 
+19:15:22.510 [main] INFO  testCases.TC__01_Account_Registration -  *** Account Registration *** 
+19:15:23.008 [main] INFO  testCases.TC__01_Account_Registration -  *** Clicked on Register *** 
+19:15:23.010 [main] INFO  testCases.TC__01_Account_Registration -  *** Entering the Details *** 
+19:15:27.544 [main] INFO  testCases.TC__01_Account_Registration -  *** Account Created *** 
+19:15:27.579 [main] INFO  testCases.TC__01_Account_Registration -  *** TC__01 Account Resistration completed *** 
+15:31:49.900 [main] INFO  testCases.TC__02_LoginPage -  *** Check Login Functionality *** 
+15:31:58.786 [main] ERROR testCases.TC__02_LoginPage -  *** Failed Login *** 
+15:32:00.177 [main] INFO  testCases.TC__01_Account_Registration -  *** Account Registration *** 
+15:32:00.712 [main] INFO  testCases.TC__01_Account_Registration -  *** Clicked on Register *** 
+15:32:00.717 [main] INFO  testCases.TC__01_Account_Registration -  *** Entering the Details *** 
+15:32:05.910 [main] INFO  testCases.TC__01_Account_Registration -  *** Account Created *** 
+15:32:05.983 [main] INFO  testCases.TC__01_Account_Registration -  *** TC__01 Account Resistration completed *** 

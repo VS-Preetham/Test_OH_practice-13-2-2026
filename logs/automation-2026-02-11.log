@@ -1,0 +1,46 @@
+19:28:07.444 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:28:07.447 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:28:07.451 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+00:23:12.168 [TestNG-tests-2] INFO  testCases.TC__01_Account_Registration -  *** Account Registration *** 
+00:23:16.992 [TestNG-tests-1] INFO  testCases.TC__01_Account_Registration -  *** Account Registration *** 
+00:23:18.056 [TestNG-tests-2] INFO  testCases.TC__01_Account_Registration -  *** Clicked on Register *** 
+00:23:18.062 [TestNG-tests-2] INFO  testCases.TC__01_Account_Registration -  *** Entering the Details *** 
+00:23:19.609 [TestNG-tests-1] INFO  testCases.TC__01_Account_Registration -  *** Clicked on Register *** 
+00:23:19.610 [TestNG-tests-1] INFO  testCases.TC__01_Account_Registration -  *** Entering the Details *** 
+00:23:26.746 [TestNG-tests-2] INFO  testCases.TC__01_Account_Registration -  *** Account Created *** 
+00:23:26.869 [TestNG-tests-2] INFO  testCases.TC__01_Account_Registration -  *** TC__01 Account Resistration completed *** 
+00:23:27.954 [TestNG-tests-1] INFO  testCases.TC__01_Account_Registration -  *** Account Created *** 
+00:23:28.193 [TestNG-tests-1] INFO  testCases.TC__01_Account_Registration -  *** TC__01 Account Resistration completed *** 
+00:23:31.720 [TestNG-tests-3] INFO  testCases.TC__01_Account_Registration -  *** Account Registration *** 
+00:23:32.597 [TestNG-tests-3] INFO  testCases.TC__01_Account_Registration -  *** Clicked on Register *** 
+00:23:32.598 [TestNG-tests-3] INFO  testCases.TC__01_Account_Registration -  *** Entering the Details *** 
+00:23:37.223 [TestNG-tests-3] INFO  testCases.TC__01_Account_Registration -  *** Account Created *** 
+00:23:37.326 [TestNG-tests-3] INFO  testCases.TC__01_Account_Registration -  *** TC__01 Account Resistration completed *** 
+00:26:18.096 [TestNG-tests-1] INFO  testCases.TC__01_Account_Registration -  *** Account Registration *** 
+00:26:18.788 [TestNG-tests-2] INFO  testCases.TC__01_Account_Registration -  *** Account Registration *** 
+00:26:19.776 [TestNG-tests-1] INFO  testCases.TC__01_Account_Registration -  *** Clicked on Register *** 
+00:26:19.782 [TestNG-tests-1] INFO  testCases.TC__01_Account_Registration -  *** Entering the Details *** 
+00:26:20.048 [TestNG-tests-2] INFO  testCases.TC__01_Account_Registration -  *** Clicked on Register *** 
+00:26:20.051 [TestNG-tests-2] INFO  testCases.TC__01_Account_Registration -  *** Entering the Details *** 
+00:26:26.310 [TestNG-tests-1] INFO  testCases.TC__01_Account_Registration -  *** Account Created *** 
+00:26:26.417 [TestNG-tests-1] INFO  testCases.TC__01_Account_Registration -  *** TC__01 Account Resistration completed *** 
+00:26:26.643 [TestNG-tests-2] INFO  testCases.TC__01_Account_Registration -  *** Account Created *** 
+00:26:26.835 [TestNG-tests-2] INFO  testCases.TC__01_Account_Registration -  *** TC__01 Account Resistration completed *** 
+20:50:56.431 [main] INFO  testCases.TC__01_Account_Registration -  *** Account Registration *** 
+20:50:57.603 [main] INFO  testCases.TC__01_Account_Registration -  *** Clicked on Register *** 
+20:50:57.607 [main] INFO  testCases.TC__01_Account_Registration -  *** Entering the Details *** 
+20:51:03.798 [main] INFO  testCases.TC__01_Account_Registration -  *** Account Created *** 
+20:51:03.924 [main] INFO  testCases.TC__01_Account_Registration -  *** TC__01 Account Resistration completed *** 
+20:51:18.037 [main] INFO  testCases.TC__01_Account_Registration -  *** Account Registration *** 
+20:51:19.437 [main] INFO  testCases.TC__01_Account_Registration -  *** Clicked on Register *** 
+20:51:19.439 [main] INFO  testCases.TC__01_Account_Registration -  *** Entering the Details *** 
+20:51:24.545 [main] INFO  testCases.TC__01_Account_Registration -  *** Account Created *** 
+20:51:24.644 [main] INFO  testCases.TC__01_Account_Registration -  *** TC__01 Account Resistration completed *** 
+20:51:58.605 [main] INFO  testCases.TC__01_Account_Registration -  *** Account Registration *** 
+20:51:59.611 [main] INFO  testCases.TC__01_Account_Registration -  *** Clicked on Register *** 
+20:51:59.615 [main] INFO  testCases.TC__01_Account_Registration -  *** Entering the Details *** 
+20:52:06.139 [main] INFO  testCases.TC__01_Account_Registration -  *** Account Created *** 
+20:52:06.276 [main] INFO  testCases.TC__01_Account_Registration -  *** TC__01 Account Resistration completed *** 
+20:52:18.333 [main] INFO  testCases.TC__01_Account_Registration -  *** Account Registration *** 
+20:52:19.740 [main] INFO  testCases.TC__01_Account_Registration -  *** Clicked on Register *** 
+20:52:19.742 [main] INFO  testCases.TC__01_Account_Registration -  *** Entering the Details *** 
